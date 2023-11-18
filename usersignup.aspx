@@ -52,7 +52,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-4">
-                                <label>State</label>
+                                <label>Country</label>
                                 <div class="form-group">
                                     <asp:DropDownList CssClass="form-control" ID="DropDownList1" runat="server">
                                       
@@ -97,9 +97,9 @@
                                 </div>
                             </div>
                             <div class="col-md-4">
-                                <label>Pincode</label>
+                                <label>Post code</label>
                                 <div class="form-group">
-                                    <asp:TextBox CssClass="form-control" ID="TextBox7" runat="server" placeholder="Pincode" TextMode="Number"></asp:TextBox>
+                                    <asp:TextBox CssClass="form-control" ID="TextBox7" runat="server" placeholder="Post code" TextMode="Number"></asp:TextBox>
                                 </div>
                             </div>
                         </div>
