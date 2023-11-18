@@ -13,5 +13,10 @@ namespace courseworkPolishchuk1
         {
 
         }
+
+        protected void LinkButton6_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("adminlogin.aspx");
+        }
     }
 }
