@@ -57,36 +57,38 @@
                                     <asp:DropDownList CssClass="form-control" ID="DropDownList1" runat="server">
                                       
                                                 <asp:ListItem Text="Select" Value="select" />
-    <asp:ListItem Text="Andhra Pradesh" Value="Andhra Pradesh" />
-    <asp:ListItem Text="Arunachal Pradesh" Value="Arunachal Pradesh" />
-    <asp:ListItem Text="Assam" Value="Assam" />
-    <asp:ListItem Text="Bihar" Value="Bihar" />
-    <asp:ListItem Text="Chhattisgarh" Value="Chhattisgarh" />
-    <asp:ListItem Text="Rajasthan" Value="Rajasthan" />
-    <asp:ListItem Text="Goa" Value="Goa" />
-    <asp:ListItem Text="Gujarat" Value="Gujarat" />
-    <asp:ListItem Text="Haryana" Value="Haryana" />
-    <asp:ListItem Text="Himachal Pradesh" Value="Himachal Pradesh" />
-    <asp:ListItem Text="Jammu and Kashmir" Value="Jammu and Kashmir" />
-    <asp:ListItem Text="Jharkhand" Value="Jharkhand" />
-    <asp:ListItem Text="Karnataka" Value="Karnataka" />
-    <asp:ListItem Text="Kerala" Value="Kerala" />
-    <asp:ListItem Text="Madhya Pradesh" Value="Madhya Pradesh" />
-    <asp:ListItem Text="Maharashtra" Value="Maharashtra" />
-    <asp:ListItem Text="Manipur" Value="Manipur" />
-    <asp:ListItem Text="Meghalaya" Value="Meghalaya" />
-    <asp:ListItem Text="Mizoram" Value="Mizoram" />
-    <asp:ListItem Text="Nagaland" Value="Nagaland" />
-    <asp:ListItem Text="Odisha" Value="Odisha" />
-    <asp:ListItem Text="Punjab" Value="Punjab" />
-    <asp:ListItem Text="Rajasthan" Value="Rajasthan" />
-    <asp:ListItem Text="Sikkim" Value="Sikkim" />
-    <asp:ListItem Text="Tamil Nadu" Value="Tamil Nadu" />
-    <asp:ListItem Text="Telangana" Value="Telangana" />
-    <asp:ListItem Text="Tripura" Value="Tripura" />
-    <asp:ListItem Text="Uttar Pradesh" Value="Uttar Pradesh" />
-    <asp:ListItem Text="Uttarakhand" Value="Uttarakhand" />
-    <asp:ListItem Text="West Bengal" Value="West Bengal" />
+
+    <asp:ListItem Text="Select" Value="select" />
+    <asp:ListItem Text="Austria" Value="Austria" />
+    <asp:ListItem Text="Belgium" Value="Belgium" />
+    <asp:ListItem Text="Bulgaria" Value="Bulgaria" />
+    <asp:ListItem Text="Croatia" Value="Croatia" />
+    <asp:ListItem Text="Ukraine" Value="Ukraine" />
+    <asp:ListItem Text="Czech Republic" Value="Czech Republic" />
+    <asp:ListItem Text="Denmark" Value="Denmark" />
+    <asp:ListItem Text="Estonia" Value="Estonia" />
+    <asp:ListItem Text="Finland" Value="Finland" />
+    <asp:ListItem Text="France" Value="France" />
+    <asp:ListItem Text="Germany" Value="Germany" />
+    <asp:ListItem Text="Greece" Value="Greece" />
+    <asp:ListItem Text="Hungary" Value="Hungary" />
+    <asp:ListItem Text="Ireland" Value="Ireland" />
+    <asp:ListItem Text="Italy" Value="Italy" />
+    <asp:ListItem Text="Latvia" Value="Latvia" />
+    <asp:ListItem Text="Lithuania" Value="Lithuania" />
+    <asp:ListItem Text="Luxembourg" Value="Luxembourg" />
+    <asp:ListItem Text="Malta" Value="Malta" />
+    <asp:ListItem Text="Netherlands" Value="Netherlands" />
+    <asp:ListItem Text="Poland" Value="Poland" />
+    <asp:ListItem Text="Portugal" Value="Portugal" />
+    <asp:ListItem Text="Romania" Value="Romania" />
+    <asp:ListItem Text="Slovakia" Value="Slovakia" />
+    <asp:ListItem Text="Slovenia" Value="Slovenia" />
+    <asp:ListItem Text="Spain" Value="Spain" />
+    <asp:ListItem Text="Sweden" Value="Sweden" />
+    <asp:ListItem Text="United Kingdom" Value="United Kingdom" />
+</asp:DropDownList>
+
                                     </asp:DropDownList>
                                 </div>
                             </div>

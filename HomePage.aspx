@@ -57,7 +57,7 @@
             </div>
         </div>
     </section>
-
+  
     <section>
         <img src="imgs/in-homepage-banner.jpg" class="img-fluid" alt="Homepage Banner" />
     </section>
