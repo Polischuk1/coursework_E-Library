@@ -19,6 +19,8 @@
     <!--bootstrap-->
     <script src="bootstrap/js/cdn.jsdelivr.net_npm_bootstrap@4.3.1_dist_js_bootstrap.min.js"></script>
 
+    <script src="datatables/js/cdn.datatables.net_1.13.7_js_jquery.dataTables.min.js"></script>
+
 
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
