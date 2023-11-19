@@ -35,7 +35,7 @@ namespace courseworkPolishchuk1
                 {
                     while (dr.Read())
                     {
-                        Response.Write("<script>alert('" + dr.GetValue(8).ToString() + "');</script>");
+                       // Response.Write("<script>alert('" + dr.GetValue(8).ToString() + "');</script>");
                         Session["username"] = dr.GetValue(8).ToString();
                         Session["fullname"] = dr.GetValue(8).ToString();
                         Session["role"] = "user";

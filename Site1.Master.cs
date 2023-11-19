@@ -15,24 +15,8 @@ namespace courseworkPolishchuk1
             {
                 if (Session["role"] != null)
                 {
-                    if (Session["role"].ToString() == "user")
-                    {
-                        LinkButton1.Visible = true; // user login link button
-                        LinkButton2.Visible = true; // sign up link button
-
-                        LinkButton3.Visible = false; // logout link button
-                        LinkButton7.Visible = false; // hello user link button
-
-
-                        LinkButton6.Visible = true; // admin login link button
-                        LinkButton11.Visible = false; // author management link button
-                        LinkButton12.Visible = false; // publisher management link button
-                        LinkButton8.Visible = false; // book inventory link button
-                        LinkButton9.Visible = false; // book issuing link button
-                        LinkButton10.Visible = false; // member management link button
-
-                    }
-                    else if (Session["role"].Equals("user"))
+                  
+                     if (Session["role"].Equals("user"))
                     {
                         LinkButton1.Visible = false; // user login link button
                         LinkButton2.Visible = false; // sign up link button
@@ -65,7 +49,24 @@ namespace courseworkPolishchuk1
                         LinkButton9.Visible = true; // book issuing link button
                     }
                 }
+                else
+                {
+                    LinkButton1.Visible = true; // user login link button
+                    LinkButton2.Visible = true; // sign up link button
+
+                    LinkButton3.Visible = false; // logout link button
+                    LinkButton7.Visible = false; // hello user link button
+
+
+                    LinkButton6.Visible = true; // admin login link button
+                    LinkButton11.Visible = false; // author management link button
+                    LinkButton12.Visible = false; // publisher management link button
+                    LinkButton8.Visible = false; // book inventory link button
+                    LinkButton9.Visible = false; // book issuing link button
+                    LinkButton10.Visible = false; // member management link button
+                }
             }
+
             catch (Exception ex)
             {
 
