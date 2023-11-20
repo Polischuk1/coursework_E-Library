@@ -79,6 +79,10 @@
     <Content Include="books\b4.jpg" />
     <Content Include="books\b5.jpg" />
     <Content Include="book_inventory\b1.jpg" />
+    <Content Include="book_inventory\b2.jpg" />
+    <Content Include="book_inventory\b3.jpg" />
+    <Content Include="book_inventory\b4.jpg" />
+    <Content Include="book_inventory\b5.jpg" />
     <Content Include="book_inventory\books1.png" />
     <Content Include="bootstrap\css\cdn.jsdelivr.net_npm_bootstrap%404.3.1_dist_css_bootstrap.min.css" />
     <Content Include="bootstrap\js\cdn.jsdelivr.net_npm_bootstrap%404.3.1_dist_js_bootstrap.min.js" />
