@@ -1,6 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="viewbooks.aspx.cs" Inherits="courseworkPolishchuk1.viewbooks" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-<<<<<<< HEAD
 
     <script type="text/javascript">
         $(document).ready(function () {
@@ -107,14 +106,11 @@
                     </div>
                 </div>
                 <center>
-                    <a href="home.aspx">
+                    <a href="HomePage.aspx">
                         << Back to Home</a><span class="clearfix"></span>
                             <br />
                             <center>
             </div>
         </div>
-=======
-</asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
->>>>>>> parent of 83aa048 (viewbooks)
+
 </asp:Content>
