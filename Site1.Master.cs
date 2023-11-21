@@ -119,10 +119,10 @@ namespace courseworkPolishchuk1
         {
             Response.Redirect("usersignup.aspx");
         }
-
+        //hello
         protected void LinkButton7_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("userprofile.aspx");
         }
 
         protected void LinkButton3_Click(object sender, EventArgs e)
